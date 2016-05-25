@@ -6,7 +6,7 @@ tags: [  topic>demo, tutorial>intermediate, topic>cloud, topic>java, topic>mobil
 ## Prerequisites  
  - **Proficiency:** Intermediate
  - **Tutorials:** 
-   - [Create a native app in SAP HANA Cloud Platform mobile service for development and operations](http://go.sap.com/developer/tutorials/hcpdo-create-native-app.html)
+   - [Create a native app in SAP HANA Cloud Platform mobile service for development and operations](http://go.sap.com/developer/tutorials/hcpdo-create-native-app.html2)
    - Download and install [Android Studio](https://developer.android.com/studio/index.html)
 
 ## Next Steps
