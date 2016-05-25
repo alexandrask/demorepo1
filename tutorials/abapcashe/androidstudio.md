@@ -11,7 +11,7 @@ tags: [ topic>demo, topic>test, tutorial>intermediate, topic>cloud, topic>java, 
  - Download and install the [SAP Mobile SDK](https://store.sap.com/sap/cpa/ui/resources/store/html/SolutionDetails.html?pid=0000013098)
 
 ## Next Steps
- - [Compile and run a native Android app on SAP HANA Cloud Platform](http://go.sap.com/developer/tutorials/hcpdo-run-native-android-app.html)
+ - [Compile and run a native Android app on SAP HANA Cloud Platform](http://go.sap.com/developer/tutorials/hcpdo-run-native-android-app55.html)
 
 ## Details
 ### You will learn  
